@@ -1,0 +1,6 @@
+# Project exclude paths
+/Spring01_helloWorld/target/
+/spring02_caltools/target/
+/spring03_myspringframework/target/
+/spring04_Aop/target/
+/target/
